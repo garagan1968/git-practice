@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 Revised at the local repository
 Re-revised by conflict branch
-Modified on main branch (for conflict)
+Modified on rebase-practice branch (for rebase conflict)
