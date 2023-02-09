@@ -3,3 +3,4 @@
 Revised at the local repository
 Re-revised by conflict branch
 Modified on rebase-practice branch (for rebase conflict)
+Rebase pull用
